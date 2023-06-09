@@ -38,7 +38,7 @@
 		<dependency>
 			<groupId>org.apache.flink</groupId>
 			<artifactId>flink-connector-elasticsearch-base</artifactId>
-			<version>${flink.version}</version>
+			<version>1.16.2</version>
 		</dependency>
 	</dependencies>
 </project>
