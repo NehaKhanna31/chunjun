@@ -49,13 +49,13 @@
 		<dependency>
 			<groupId>io.vertx</groupId>
 			<artifactId>vertx-jdbc-client</artifactId>
-			<version>${vertx.version}</version>
+			<version>3.9.15</version>
 		</dependency>
 
 		<dependency>
 			<groupId>io.vertx</groupId>
 			<artifactId>vertx-core</artifactId>
-			<version>${vertx.version}</version>
+			<version>3.9.15</version>
 		</dependency>
 
 		<dependency>
